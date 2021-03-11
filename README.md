@@ -4,8 +4,8 @@ This repository contains the dataset related to ''MSMarco Chameleons: Challengin
 In this work we find that while rankers have witnessed an impresive improvement in the oeprformance during the recent years, there are still a significant number of queries that
 cannot be addressed by any of the state of the art neural rankers. We refer to these queries as obstinate queries because of their difficulty.
 This means that regardless of the neural ranker, these queries will not see any performance improvements and the increase in overall
-performance reported by the ranker are due to improvements on another selected subset of queries. We believe that careful treatintmenr on these queries will lead 
-to the stable and consistent performance of neural rankers.
+performance reported by the ranker are due to improvements on another selected subset of queries. We believe that careful treatment on these queries will lead 
+to the a more stable and consistent performance of neural rankers across all the queries.
 
 Further, we show the performance of SOTA rankers  on MSMARCO small dev set which contains 6980 queries in Table 1.
 
