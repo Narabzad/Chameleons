@@ -25,3 +25,4 @@ hence can be improved through query reformulation, we report the performance of 
 techniques on the MSMarco Chameleons dataset and show that such queries remain stubborn and do not report noticeable performance
 improvements even after systematic reformulation.
 The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/tree/master/expanded%20Queries).
+
