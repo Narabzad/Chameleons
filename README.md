@@ -1,4 +1,4 @@
-# Chameleons
+# MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate Queries
 This repository contains the dataset related to ''MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate Queries'' resource paper.
 
 In this work we find that while rankers have witnessed an impresive improvement in the oeprformance during the recent years, there are still a significant number of queries that
