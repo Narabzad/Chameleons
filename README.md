@@ -53,39 +53,39 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 
   <tr>
     <td class="tg-0pky">Relevance feedback</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0477 </td>
+    <td class="tg-4yk9"> 0.0574 </td>
+    <td class="tg-4yk9"> 0.0566 </td>
+    <td class="tg-4yk9"> 0.0513 </td>
+    <td class="tg-4yk9"> 0.0277 </td>
+    <td class="tg-4yk9"> 0.0693 </td>
   </tr>
   <tr>
     <td class="tg-0pky">RM3</td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> 0.0407 </td>
+    <td class="tg-0pky"> 0.0375</td>
+    <td class="tg-0pky"> 0.0603</td>
+    <td class="tg-0pky"> 0.0459</td>
+    <td class="tg-0pky"> 0.0374</td>
+    <td class="tg-0pky"> 0.0610</td>
   </tr>
   <tr>
     <td class="tg-0pky">Document clustering</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0392 </td>
+    <td class="tg-4yk9"> 0.0393 </td>
+    <td class="tg-4yk9"> 0.0593 </td>
+    <td class="tg-4yk9"> 0.0550 </td>
+    <td class="tg-4yk9"> 0.0609 </td>
+    <td class="tg-4yk9"> 0.0765 </td>
   </tr>
   <tr>
     <td class="tg-0pky">Term Clustering </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> 0.0412 </td>
+    <td class="tg-0pky"> 0.0424 </td>
+    <td class="tg-0pky"> 0.0567 </td>
+    <td class="tg-0pky"> 0.0557 </td>
+    <td class="tg-0pky"> 0.0693 </td>
+    <td class="tg-0pky"> 0.0724 </td>
   </tr>
   <tr>
  <tr>
@@ -93,66 +93,66 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
  <tr>
     <td class="tg-0pky"> Neural Embeddings </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0218 </td>
+    <td class="tg-4yk9"> 0.0248 </td>
+    <td class="tg-4yk9"> 0.0285 </td>
+    <td class="tg-4yk9"> 0.0409 </td>
+    <td class="tg-4yk9"> 0.0468 </td>
+    <td class="tg-4yk9"> 0.0462 </td>
   </tr>
    <tr>
     <td class="tg-0pky"> WikiPedia </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0277 </td>
+    <td class="tg-4yk9"> 0.0313 </td>
+    <td class="tg-4yk9"> 0.0341 </td>
+    <td class="tg-4yk9"> 0.0368 </td>
+    <td class="tg-4yk9"> 0.0466 </td>
+    <td class="tg-4yk9"> 0.0396 </td>
   </tr>
    <tr>
     <td class="tg-0pky"> Thesaurus </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0277</td>
+    <td class="tg-4yk9"> 0.0313</td>
+    <td class="tg-4yk9"> 0.0341 </td>
+    <td class="tg-4yk9"> 0.0368 </td>
+    <td class="tg-4yk9"> 0.0466 </td>
+    <td class="tg-4yk9"> 0.0396</td>
   </tr>
   <tr>
     <td class="tg-0pky"> Entity Linking</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0399 </td>
+    <td class="tg-4yk9"> 0.0450 </td>
+    <td class="tg-4yk9"> 0.0543 </td>
+    <td class="tg-4yk9"> 0.0507 </td>
+    <td class="tg-4yk9"> 0.0533</td>
+    <td class="tg-4yk9"> 0.0649</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sense Disambigution</td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> 0.0359</td>
+    <td class="tg-0pky"> 0.0360</td>
+    <td class="tg-0pky"> 0.0521</td>
+    <td class="tg-0pky"> 0.0512</td>
+    <td class="tg-0pky"> 0.0653</td>
+    <td class="tg-0pky"> 0.0633</td>
   </tr>
   <tr>
     <td class="tg-0pky">ConceptNet</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0..0269</td>
+    <td class="tg-4yk9"> 0.0278</td>
+    <td class="tg-4yk9"> 0.0342</td>
+    <td class="tg-4yk9"> 0.0369</td>
+    <td class="tg-4yk9"> 0.0488</td>
+    <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
     <td class="tg-0pky"> WordNet </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> 0.0271</td>
+    <td class="tg-0pky"> 0.0569</td>
+    <td class="tg-0pky"> 0.0346</td>
+    <td class="tg-0pky"> 0.0359</td>
+    <td class="tg-0pky"> 0.0399</td>
+    <td class="tg-0pky"> 0.0406</td>
   </tr>
   <tr>
  <tr>
@@ -161,30 +161,30 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 
   <tr>
     <td class="tg-0pky"> ANMT (Seq2Seq)</td>
-    <td class="tg-4yk9">  </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.0002 </td>
+    <td class="tg-4yk9"> 0.0007</td>
+    <td class="tg-4yk9"> 0.0010</td>
+    <td class="tg-4yk9"> 0.0020</td>
+    <td class="tg-4yk9"> 0.0046</td>
+    <td class="tg-4yk9"> 0.0066</td>
   </tr>
   <tr>
     <td class="tg-0pky">ACG (Seq2Seq + Attention)</td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> 0.0240</td>
+    <td class="tg-0pky"> 0.0307</td>
+    <td class="tg-0pky"> 0.0359</td>
+    <td class="tg-0pky"> 0.0433</td>
+    <td class="tg-0pky"> 0.0450</td>
+    <td class="tg-0pky"> 0.0470</td>
   </tr>
   <tr>
     <td class="tg-0pky"> HRED-qs</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> 0.006</td>
+    <td class="tg-4yk9"> 0.002</td>
+    <td class="tg-4yk9"> 0.003</td>
+    <td class="tg-4yk9"> 0.0060</td>
+    <td class="tg-4yk9"> 0.0082</td>
+    <td class="tg-4yk9"> 0.0110</td>
   </tr>
 </tbody>
 </table>
