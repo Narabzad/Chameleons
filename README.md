@@ -15,9 +15,9 @@ Further, we show the performance of SOTA rankers  on MSMARCO small dev set which
 **Table 1. : MAP Performance of  the rankers on 50% hardest queries of the Chameleon datasets.**
 | Variations          | Dataset Name          | Queries             |BM25   | DeepCT | DocT5Query | RepBert | ANCE   | TCT-Colbert |
 |---------------------|-----------------------|---------------------|-------|--------|------------|---------|--------|-------------|
-| Common in  <br>**6** rankers | Meller's <br> Chameleon    | Meller's queries    |0.0066 <br>(Run) | 0.0122 <br>(Run) | 0.0185 <br>(Run)    | 0.0212 <br>(Run)  | 0.0286 <br>(Run) | 0.0267 <br>(Run)     |
-| Common in  <br>**5** rankers | Fischer's  <br>Chameleon   | Fischer's queries   |0.0215 <br>(Run) | 0.0240 <br>(Run) | 0.0403 <br>(Run)    | 0.0398 <br>(Run)  | 0.0546 <br>(Run) | 0.0462 <br>(Run)     |
-| Common in  <br>**4** rankers | Outstalet's <br> Chameleon | Outstalet's queries |0.0392 <br>(Run)| 0.0400 <br>(Run)| 0.0660 <br>(Run)    | 0.0560 <br>(Run) | 0.0847 <br>(Run) | 0.0780  <br>(Run)    |
+| Common in  <br>**6** rankers | Meller's <br> Chameleon    | [Meller's queries](https://github.com/Narabzad/Chameleons/tree/master/datasets/Meller(common6))    |0.0066 <br>(Run) | 0.0122 <br>(Run) | 0.0185 <br>(Run)    | 0.0212 <br>(Run)  | 0.0286 <br>(Run) | 0.0267 <br>(Run)     |
+| Common in  <br>**5** rankers | Fischer's  <br>Chameleon   | [Fischer's queries](https://github.com/Narabzad/Chameleons/tree/master/datasets/Fischer(common5))   |0.0215 <br>(Run) | 0.0240 <br>(Run) | 0.0403 <br>(Run)    | 0.0398 <br>(Run)  | 0.0546 <br>(Run) | 0.0462 <br>(Run)     |
+| Common in  <br>**4** rankers | Outstalet's <br> Chameleon | [Outstalet's queries](https://github.com/Narabzad/Chameleons/tree/master/datasets/Outstalet(common4)) |0.0392 <br>(Run)| 0.0400 <br>(Run)| 0.0660 <br>(Run)    | 0.0560 <br>(Run) | 0.0847 <br>(Run) | 0.0780  <br>(Run)    |
 
 We made all these runs available in the [Chameleons Google drive](https://drive.google.com/drive/folders/1vj8YC6YcADiiS7DjqepDMC9F_uaRneJC?usp=sharing). 
 
