@@ -19,6 +19,9 @@ of queries for which the rankers are unable to return any reasonable ranking. Fu
 
 We made all the runs available in the [Chameleons Google drive](https://drive.google.com/drive/folders/1vj8YC6YcADiiS7DjqepDMC9F_uaRneJC?usp=sharing). 
 
+## Baseline rankers implementation
+You can find the [details of implementation of each method here](https://github.com/Narabzad/Chameleons/blob/master/Baselines%20documentations.md). 
+
 ## Query Reformulation
 Furthermore, given the literature has reported that hard queries can often be due to issues such as vocabulary mismatch, and
 hence can be improved through query reformulation, we report the performance of several strong query reformulation 
