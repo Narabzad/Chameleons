@@ -7,10 +7,9 @@ This means that regardless of the neural ranker, these queries will not see any 
 performance reported by the ranker are due to improvements on another selected subset of queries. We believe that careful treatment on these queries will lead 
 to the a more stable and consistent performance of neural rankers across all the queries.
 
-Further, we show the performance of SOTA rankers  on MSMARCO small dev set which contains 6980 queries in Table 1.
-
-
-
+We investigate the performance of SOTA rankers  on MSMARCO small dev set  which contains 6980 queries. We noticed no matter
+which baseline method is considered, whether it be a traditional BM25 ranker or a complex neural ranker, there is a noticeable number
+of queries for which the rankers are unable to return any reasonable ranking. Further there is a noticeable number of poorly performed queries that are in common acroos all the rankers. Table 1 illustrates the performance of  the 'difficult' queries qhich are among least 50% performance of each baseline and are in common in 4,5 and 6 of SOTA rankers  
 
 **Table 1. : MAP Performance of  the rankers on 50% hardest queries of the Chameleon datasets.**
 | Variations          | Dataset Name          | Queries             |BM25   | DeepCT | DocT5Query | RepBert | ANCE   | TCT-Colbert |
