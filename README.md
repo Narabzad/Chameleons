@@ -40,12 +40,12 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   <tr>
     <td class="tg-0pky">QPP baselines</td>
     <td class="tg-0pky">Document Association</td>
-    <td class="tg-0pky">Robust 04</td>
-    <td class="tg-0pky">ClueWeb09</td>
-    <td class="tg-0pky">GOV2</td>
-    <td class="tg-0pky">Robust 04</td>
-    <td class="tg-0pky">ClueWeb09</td>
-    <td class="tg-0pky">GOV2</td>
+    <td class="tg-0pky">BM25</td>
+    <td class="tg-0pky">DeepCT</td>
+    <td class="tg-0pky">DocT5</td>
+    <td class="tg-0pky">RepBert</td>
+    <td class="tg-0pky">ANCE</td>
+    <td class="tg-0pky">TCT-ColBert</td>
   </tr>
     <tr>
     <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br><br>WIG<br></td>
