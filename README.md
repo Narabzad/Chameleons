@@ -89,7 +89,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
  <tr>
-    <td class="tg-0pky" rowspan="7"><br><br><br><br> External Sources<br></td>
+    <td class="tg-0pky" rowspan="6"><br><br><br><br> External Sources<br></td>
   </tr>
  <tr>
     <td class="tg-0pky"> Neural Embeddings </td>
