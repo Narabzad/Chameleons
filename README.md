@@ -196,3 +196,4 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 </tbody>
 </table>
 
+It should be noted that the psuedo-relevance feedback-based query expansion methods are different for each run since they are based on initial first round of retrieval. However, for other methods, the expansion queries are the same. 
