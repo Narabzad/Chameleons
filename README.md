@@ -20,3 +20,8 @@ of queries for which the rankers are unable to return any reasonable ranking. Fu
 
 We made all the runs available in the [Chameleons Google drive](https://drive.google.com/drive/folders/1vj8YC6YcADiiS7DjqepDMC9F_uaRneJC?usp=sharing). 
 
+Furthermore, given the literature has reported that hard queries can often be due to issues such as vocabulary mismatch, and
+hence can be improved through query reformulation, we report the performance of several strong query reformulation 
+techniques on the MSMarco Chameleons dataset and show that such queries remain stubborn and do not report noticeable performance
+improvements even after systematic reformulation.
+The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/tree/master/expanded%20Queries).
