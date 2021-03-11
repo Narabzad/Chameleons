@@ -92,7 +92,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky" rowspan="8"><br><br> External Sources<br></td>
   </tr>
  <tr>
-    <td class="tg-0pky"> Neural Embeddings </td>
+    <td class="tg-0pky"> Neural Embeddings[(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Neural%20Embeddings/outstalet_50_word2vec.topn3) </td>
     <td class="tg-4yk9"> 0.0218 </td>
     <td class="tg-4yk9"> 0.0248 </td>
     <td class="tg-4yk9"> 0.0285 </td>
@@ -101,7 +101,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0462 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> WikiPedia </td>
+    <td class="tg-0pky"> WikiPedia [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Wikipedia/outstalet_50_wiki.topn3) </td>
     <td class="tg-4yk9"> 0.0277 </td>
     <td class="tg-4yk9"> 0.0313 </td>
     <td class="tg-4yk9"> 0.0341 </td>
@@ -110,7 +110,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> Thesaurus </td>
+    <td class="tg-0pky"> Thesaurus [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3)</td>
     <td class="tg-4yk9"> 0.0277</td>
     <td class="tg-4yk9"> 0.0313</td>
     <td class="tg-4yk9"> 0.0341 </td>
@@ -119,7 +119,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> Entity Linking</td>
+    <td class="tg-0pky"> Entity Linking [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3)</td>
     <td class="tg-4yk9"> 0.0399 </td>
     <td class="tg-4yk9"> 0.0450 </td>
     <td class="tg-4yk9"> 0.0543 </td>
@@ -128,7 +128,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0649</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sense Disambigution</td>
+    <td class="tg-0pky">Sense Disambigution [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Sense%20Disambigution/outstalet_50_sensedisambiguation)</td>
     <td class="tg-0pky"> 0.0359</td>
     <td class="tg-0pky"> 0.0360</td>
     <td class="tg-0pky"> 0.0521</td>
@@ -137,7 +137,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky"> 0.0633</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ConceptNet</td>
+    <td class="tg-0pky">ConceptNet [(query)]https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3()</td>
     <td class="tg-4yk9"> 0..0269</td>
     <td class="tg-4yk9"> 0.0278</td>
     <td class="tg-4yk9"> 0.0342</td>
@@ -146,7 +146,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> WordNet </td>
+    <td class="tg-0pky"> WordNet [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3)</td>
     <td class="tg-0pky"> 0.0271</td>
     <td class="tg-0pky"> 0.0569</td>
     <td class="tg-0pky"> 0.0346</td>
