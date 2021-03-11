@@ -89,29 +89,10 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
  <tr>
-    <td class="tg-0pky" rowspan="5"><br><br><br><br> External Sources<br></td>
+    <td class="tg-0pky" rowspan="7"><br><br><br><br> External Sources<br></td>
   </tr>
-
-  <tr>
-    <td class="tg-0pky">Relevance feedback</td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-    <td class="tg-4yk9"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">RM3</td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-    <td class="tg-0pky"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Document clustering</td>
+ <tr>
+    <td class="tg-0pky"> Neural Embeddings </td>
     <td class="tg-4yk9"> </td>
     <td class="tg-4yk9"> </td>
     <td class="tg-4yk9"> </td>
@@ -119,8 +100,53 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> </td>
     <td class="tg-4yk9"> </td>
   </tr>
+   <tr>
+    <td class="tg-0pky"> WikiPedia </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+   <tr>
+    <td class="tg-0pky"> Thesaurus </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
   <tr>
-    <td class="tg-0pky">Term Clustering </td>
+    <td class="tg-0pky"> Entity Linking</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Sense Disambigution</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ConceptNet</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> WordNet </td>
     <td class="tg-0pky"> </td>
     <td class="tg-0pky"> </td>
     <td class="tg-0pky"> </td>
@@ -130,7 +156,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
  <tr>
-    <td class="tg-0pky" rowspan="4"><br><br><br><br> Supervised Approaches<br></td>
+    <td class="tg-0pky" rowspan="3"><br><br><br><br> Supervised Approaches<br></td>
   </tr>
 
   <tr>
