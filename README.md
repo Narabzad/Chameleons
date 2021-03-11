@@ -156,7 +156,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
  <tr>
-    <td class="tg-0pky" rowspan="3"><br><br><br><br> Supervised Approaches<br></td>
+    <td class="tg-0pky" rowspan="5"><br><br><br><br> Supervised Approaches<br></td>
   </tr>
 
   <tr>
