@@ -53,39 +53,39 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 
   <tr>
     <td class="tg-0pky">Relevance feedback</td>
-    <td class="tg-4yk9"> 0.0477 </td>
-    <td class="tg-4yk9"> 0.0574 </td>
-    <td class="tg-4yk9"> 0.0566 </td>
-    <td class="tg-4yk9"> 0.0513 </td>
-    <td class="tg-4yk9"> 0.0277 </td>
-    <td class="tg-4yk9"> 0.0693 </td>
+    <td class="tg-4yk9"> 0.0477 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.bm25.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0574 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.deepct.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0566 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.DocT5.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0513 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.repbert.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0277 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.ance.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0693 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.colbert.topn10"" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">RM3</td>
-    <td class="tg-0pky"> 0.0407 </td>
-    <td class="tg-0pky"> 0.0375</td>
-    <td class="tg-0pky"> 0.0603</td>
-    <td class="tg-0pky"> 0.0459</td>
-    <td class="tg-0pky"> 0.0374</td>
-    <td class="tg-0pky"> 0.0610</td>
+    <td class="tg-0pky"> 0.0407 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0375 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0603 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0459 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0374 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0610 <a href=" "" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Document clustering</td>
-    <td class="tg-4yk9"> 0.0392 </td>
-    <td class="tg-4yk9"> 0.0393 </td>
-    <td class="tg-4yk9"> 0.0593 </td>
-    <td class="tg-4yk9"> 0.0550 </td>
-    <td class="tg-4yk9"> 0.0609 </td>
-    <td class="tg-4yk9"> 0.0765 </td>
+    <td class="tg-4yk9"> 0.0392 <a href=" "" target="_top"> (query) </a> </td>
+    <td class="tg-4yk9"> 0.0393 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0593 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0550 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0609 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0765 <a href=" "" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Term Clustering </td>
-    <td class="tg-0pky"> 0.0412 </td>
-    <td class="tg-0pky"> 0.0424 </td>
-    <td class="tg-0pky"> 0.0567 </td>
-    <td class="tg-0pky"> 0.0557 </td>
-    <td class="tg-0pky"> 0.0693 </td>
-    <td class="tg-0pky"> 0.0724 </td>
+    <td class="tg-0pky"> 0.0412 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0424 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0567 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0557 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0693 <a href=" "" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0724 <a href=" "" target="_top"> (query) </a></td>
   </tr>
   <tr>
  <tr>
@@ -152,7 +152,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top"></a>
+    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top">(query))</a>
       </td>
     <td class="tg-0pky"> 0.0271</td>
     <td class="tg-0pky"> 0.0569</td>
