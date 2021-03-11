@@ -25,5 +25,7 @@ Furthermore, given the literature has reported that hard queries can often be du
 hence can be improved through query reformulation, we report the performance of several strong query reformulation 
 techniques on the MSMarco Chameleons dataset and show that such queries remain stubborn and do not report noticeable performance
 improvements even after systematic reformulation.
-The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/tree/master/expanded%20Queries).
+
+The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/tree/master/expanded%20Queries) which are implemented using [ReQue toolkit](https://github.com/hosseinfani/ReQue). 
+
 
