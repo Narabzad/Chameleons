@@ -48,7 +48,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky">TCT-ColBert</td>
   </tr>
     <tr>
-    <td class="tg-0pky" rowspan="5"><br><br><br>Psuedo-Relevance Feedbac<br></td>
+    <td class="tg-0pky" rowspan="5"><br><br>Psuedo-Relevance Feedback<br></td>
   </tr>
 
   <tr>
@@ -89,7 +89,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
  <tr>
-    <td class="tg-0pky" rowspan="8"><br><br><br><br> External Sources<br></td>
+    <td class="tg-0pky" rowspan="8"><br><br> External Sources<br></td>
   </tr>
  <tr>
     <td class="tg-0pky"> Neural Embeddings </td>
