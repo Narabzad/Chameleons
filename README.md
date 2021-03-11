@@ -122,7 +122,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
       
-   <td class="tg-0pky"> Entity Linking <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3"" target="_top"></a>
+   <td class="tg-0pky"> Entity Linking <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3"" target="_top">(query)</a>
     </td>
     <td class="tg-4yk9"> 0.0399 </td>
     <td class="tg-4yk9"> 0.0450 </td>
@@ -132,7 +132,8 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0649</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sense Disambigution [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Sense%20Disambigution/outstalet_50_sensedisambiguation)</td>
+    <td class="tg-0pky">Sense Disambigution <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Sense%20Disambigution/outstalet_50_sensedisambiguation"" target="_top">(query)</a>
+  </td>
     <td class="tg-0pky"> 0.0359</td>
     <td class="tg-0pky"> 0.0360</td>
     <td class="tg-0pky"> 0.0521</td>
@@ -141,7 +142,8 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky"> 0.0633</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ConceptNet [(query)]https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3)</td>
+    <td class="tg-0pky">ConceptNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3"" target="_top">(query)</a>
+     </td>
     <td class="tg-4yk9"> 0..0269</td>
     <td class="tg-4yk9"> 0.0278</td>
     <td class="tg-4yk9"> 0.0342</td>
@@ -150,7 +152,8 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> WordNet [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3)</td>
+    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top"></a>
+      </td>
     <td class="tg-0pky"> 0.0271</td>
     <td class="tg-0pky"> 0.0569</td>
     <td class="tg-0pky"> 0.0346</td>
