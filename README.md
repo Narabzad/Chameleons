@@ -8,5 +8,12 @@ performance reported by the ranker are due to improvements on another selected s
 to the stable and consistent performance of neural rankers.
 
 Further, we show the performance of SOTA rankers  on MSMARCO small dev set which contains 6980 queries in Table 1.
+
+| Variations          | Dataset Name          | BM25   | DeepCT | DocT5Query | RepBert | ANCE   | TCT-Colbert |
+|---------------------|-----------------------|--------|--------|------------|---------|--------|-------------|
+| Common in 6 rankers | Meller's Chameleon    | 0.0066 | 0.0122 | 0.0185     | 0.0212  | 0.0286 | 0.0267      |
+| Common in 5 rankers | Fischer's Chameleon   | 0.0215 | 0.0240 | 0.0403     | 0.0398  | 0.0546 | 0.0462      |
+| Common in 4 rankers | Outstalet's Chameleon | 0.0392 | 0.0400 | 0.0660     | 0.0560  | 0.0847 | 0.0780      |
+
 We made all these runs available in the [Chameleons Google drive](https://drive.google.com/drive/folders/1vj8YC6YcADiiS7DjqepDMC9F_uaRneJC?usp=sharing). 
 
