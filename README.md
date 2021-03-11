@@ -110,7 +110,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> Thesaurus [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3)</td>
+    <td class="tg-0pky"> Thesaurus [query](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3)</td>
     <td class="tg-4yk9"> 0.0277</td>
     <td class="tg-4yk9"> 0.0313</td>
     <td class="tg-4yk9"> 0.0341 </td>
