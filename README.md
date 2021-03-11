@@ -33,8 +33,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   <tr>
     <th class="tg-0pky"></th>
     <th class="tg-0pky"></th>
-    <th class="tg-c3ow" colspan="3"><span style="font-weight:bold">Pearson Rho</span></th>
-    <th class="tg-c3ow" colspan="3"><span style="font-weight:bold">Kendall Tau</span></th>
+    <th class="tg-c3ow" colspan="6"><span style="font-weight:bold">Map pn the 50% Outstalet's dataset</span></th>
   </tr>
 </thead>
 <tbody>
@@ -274,83 +273,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky">0.31</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br>NQC</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ACC</td>
-    <td class="tg-0pky">0.48</td>
-    <td class="tg-0pky">0.21</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.17</td>
-    <td class="tg-0pky">0.27</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WACC</td>
-    <td class="tg-0pky">0.53</td>
-    <td class="tg-0pky">0.32</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.37</td>
-    <td class="tg-0pky">0.25</td>
-    <td class="tg-0pky">0.30</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ADC</td>
-    <td class="tg-0pky">0.52</td>
-    <td class="tg-0pky">0.19</td>
-    <td class="tg-0pky">0.41</td>
-    <td class="tg-0pky">0.37</td>
-    <td class="tg-0pky">0.18</td>
-    <td class="tg-0pky">0.29</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WADC</td>
-    <td class="tg-0pky">0.47</td>
-    <td class="tg-0pky">0.24</td>
-    <td class="tg-0pky">0.38</td>
-    <td class="tg-0pky">0.37</td>
-    <td class="tg-0pky">0.19</td>
-    <td class="tg-0pky">0.24</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">AND</td>
-    <td class="tg-0pky">0.49</td>
-    <td class="tg-0pky">0.19</td>
-    <td class="tg-0pky">0.51</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.15</td>
-    <td class="tg-0pky">0.36</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WAND</td>
-    <td class="tg-4yk9">0.47</td>
-    <td class="tg-4yk9">0.21</td>
-    <td class="tg-4yk9">0.43</td>
-    <td class="tg-4yk9">0.34</td>
-    <td class="tg-4yk9">0.15</td>
-    <td class="tg-4yk9">0.30</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">D</td>
-    <td class="tg-0pky">0.49</td>
-    <td class="tg-0pky">0.24</td>
-    <td class="tg-0pky">0.43</td>
-    <td class="tg-0pky">0.36</td>
-    <td class="tg-0pky">0.15</td>
-    <td class="tg-0pky">0.27</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WD</td>
-    <td class="tg-0pky">0.55</td>
-    <td class="tg-0pky">0.36</td>
-    <td class="tg-0pky">0.46</td>
-    <td class="tg-0pky">0.38</td>
-    <td class="tg-0pky">0.22</td>
-    <td class="tg-0pky">0.39</td>
-  </tr>
-  <tr>
 
-   
 </tbody>
 </table>
 
