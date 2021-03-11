@@ -102,7 +102,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0462 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> WikiPedia   <a href="hhttps://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Wikipedia/outstalet_50_wiki.topn3"" target="_top"> (query) </a>
+    <td class="tg-0pky"> WikiPedia <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Wikipedia/outstalet_50_wiki.topn3"" target="_top"> (query) </a>
  </td>
     <td class="tg-4yk9"> 0.0277 </td>
     <td class="tg-4yk9"> 0.0313 </td>
@@ -112,7 +112,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> Thesaurus [query](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3)</td>
+    <td class="tg-0pky"> Thesaurus<a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3"" target="_top"> (query) </a></td>
     <td class="tg-4yk9"> 0.0277</td>
     <td class="tg-4yk9"> 0.0313</td>
     <td class="tg-4yk9"> 0.0341 </td>
@@ -121,7 +121,9 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> Entity Linking [(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3)</td>
+      
+   <td class="tg-0pky"> Entity Linking <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3"" target="_top"></a>
+    </td>
     <td class="tg-4yk9"> 0.0399 </td>
     <td class="tg-4yk9"> 0.0450 </td>
     <td class="tg-4yk9"> 0.0543 </td>
