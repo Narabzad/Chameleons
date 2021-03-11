@@ -88,159 +88,78 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky"> </td>
   </tr>
   <tr>
-   
-  <tr>
-    <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br><br>Clarity<br></td>
+ <tr>
+    <td class="tg-0pky" rowspan="5"><br><br><br><br> External Sources<br></td>
   </tr>
-  <tr>
-    <td class="tg-0pky">ACC</td>
-    <td class="tg-0pky">0.54</td>
-    <td class="tg-0pky">0.30</td>
-    <td class="tg-0pky">0.45</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.22</td>
-    <td class="tg-0pky">0.32</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WACC</td>
-    <td class="tg-4yk9">0.53</td>
-    <td class="tg-4yk9">0.38</td>
-    <td class="tg-4yk9">0.46</td>
-    <td class="tg-4yk9">0.38</td>
-    <td class="tg-4yk9">0.19</td>
-    <td class="tg-4yk9">0.33</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ADC</td>
-    <td class="tg-0pky">0.51</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.44</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.27</td>
-    <td class="tg-0pky">0.32</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WADC</td>
-    <td class="tg-4yk9">0.52</td>
-    <td class="tg-4yk9">0.32</td>
-    <td class="tg-4yk9">0.46</td>
-    <td class="tg-4yk9">0.38</td>
-    <td class="tg-4yk9">0.21</td>
-    <td class="tg-4yk9">0.30</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">AND</td>
-    <td class="tg-0pky">0.54</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.46</td>
-    <td class="tg-0pky">0.37</td>
-    <td class="tg-0pky">0.20</td>
-    <td class="tg-0pky">0.29</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WAND</td>
-    <td class="tg-4yk9">0.54</td>
-    <td class="tg-4yk9">0.33</td>
-    <td class="tg-4yk9">0.45</td>
-    <td class="tg-4yk9">0.36</td>
-    <td class="tg-4yk9">0.17</td>
-    <td class="tg-4yk9">0.28</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">D</td>
-    <td class="tg-0pky">0.52</td>
-    <td class="tg-0pky">0.32</td>
-    <td class="tg-0pky">0.45</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.25</td>
-    <td class="tg-0pky">0.32</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WD</td>
-    <td class="tg-0pky">0.51</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.49</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.21</td>
-    <td class="tg-0pky">0.34</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br><br>QF<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ACC</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.23</td>
-    <td class="tg-0pky">0.43</td>
-    <td class="tg-0pky">0.32</td>
-    <td class="tg-0pky">0.14</td>
-    <td class="tg-0pky">0.30</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WACC</td>
-    <td class="tg-4yk9">0.43</td>
-    <td class="tg-4yk9">0.34</td>
-    <td class="tg-4yk9">0.34</td>
-    <td class="tg-4yk9">0.34</td>
-    <td class="tg-4yk9">0.21</td>
-    <td class="tg-4yk9">0.27</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">ADC</td>
-    <td class="tg-0pky">0.43</td>
-    <td class="tg-0pky">0.19</td>
-    <td class="tg-0pky">0.55</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.17</td>
-    <td class="tg-0pky">0.38</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WADC</td>
-    <td class="tg-4yk9">0.42</td>
-    <td class="tg-4yk9">0.20</td>
-    <td class="tg-4yk9">0.47</td>
-    <td class="tg-4yk9">0.35</td>
-    <td class="tg-4yk9">0.14</td>
-    <td class="tg-4yk9">0.36</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">AND</td>
-    <td class="tg-0pky">0.42</td>
-    <td class="tg-0pky">0.25</td>
-    <td class="tg-0pky">0.51</td>
-    <td class="tg-0pky">0.32</td>
-    <td class="tg-0pky">0.17</td>
-    <td class="tg-0pky">0.37</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WAND</td>
-    <td class="tg-4yk9">0.41</td>
-    <td class="tg-4yk9">0.28</td>
-    <td class="tg-4yk9">0.55</td>
-    <td class="tg-4yk9">0.33</td>
-    <td class="tg-4yk9">0.17</td>
-    <td class="tg-4yk9">0.42</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">D</td>
-    <td class="tg-0pky">0.40</td>
-    <td class="tg-0pky">0.28</td>
-    <td class="tg-0pky">0.50</td>
-    <td class="tg-0pky">0.31</td>
-    <td class="tg-0pky">0.15</td>
-    <td class="tg-0pky">0.36</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WD</td>
-    <td class="tg-0pky">0.42</td>
-    <td class="tg-0pky">0.39</td>
-    <td class="tg-0pky">0.47</td>
-    <td class="tg-0pky">0.29</td>
-    <td class="tg-0pky">0.24</td>
-    <td class="tg-0pky">0.31</td>
-  </tr>
-  <tr>
 
+  <tr>
+    <td class="tg-0pky">Relevance feedback</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">RM3</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Document clustering</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Term Clustering </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+  </tr>
+  <tr>
+ <tr>
+    <td class="tg-0pky" rowspan="4"><br><br><br><br> Supervised Approaches<br></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky"> ANMT (Seq2Seq)</td>
+    <td class="tg-4yk9">  </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ACG (Seq2Seq + Attention)</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> HRED-qs</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+  </tr>
 </tbody>
 </table>
 
