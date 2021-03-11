@@ -11,5 +11,5 @@
 
 **ANCE**:  We employed the implementation from [RepBert Github](https://github.com/microsoft/ANCE). Inferencing approximately takes 9 hours on two RTX3090 GPUS with 24GB memmory. 
 
- **TCT-ColBert** : We utilized [pyserini](https://github.com/castorini/pyserini) implmenetation of tct-colbert to run this baseline. Since we needed to compute the query embeddings on the fly, we preferred to select [Dense retrieval with TCT-ColBERT, brute-force index] (https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert.md#dense-retrieval):
+ **TCT-ColBert** : We utilized [pyserini](https://github.com/castorini/pyserini) implmenetation of tct-colbert to run this baseline. Since we needed to compute the query embeddings on the fly, we preferred to select [Dense retrieval with TCT-ColBERT, brute-force index](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert.md#dense-retrieval):
 
