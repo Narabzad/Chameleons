@@ -38,8 +38,8 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">QPP baselines</td>
-    <td class="tg-0pky">Document Association</td>
+    <td class="tg-0pky">Category</td>
+    <td class="tg-0pky">query</td>
     <td class="tg-0pky">BM25</td>
     <td class="tg-0pky">DeepCT</td>
     <td class="tg-0pky">DocT5</td>
@@ -48,80 +48,47 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky">TCT-ColBert</td>
   </tr>
     <tr>
-    <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br><br>WIG<br></td>
+    <td class="tg-0pky" rowspan="4"><br><br><br><br>Psuedo-Relevance Feedbac<br></td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky">Relevance feedback</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">ACC</td>
-    <td class="tg-0pky">0.54</td>
-    <td class="tg-0pky">0.31</td>
-    <td class="tg-0pky">0.51</td>
-    <td class="tg-0pky">0.38</td>
-    <td class="tg-0pky">0.23</td>
-    <td class="tg-0pky">0.36</td>
+    <td class="tg-0pky">RM3</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">WACC</td>
-    <td class="tg-4yk9">0.52</td>
-    <td class="tg-4yk9">0.36</td>
-    <td class="tg-4yk9">0.46</td>
-    <td class="tg-4yk9">0.36</td>
-    <td class="tg-4yk9">0.24</td>
-    <td class="tg-4yk9">0.31</td>
+    <td class="tg-0pky">Document clustering</td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
+    <td class="tg-4yk9"> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">ADC</td>
-    <td class="tg-0pky">0.49</td>
-    <td class="tg-0pky">0.29</td>
-    <td class="tg-0pky">0.58</td>
-    <td class="tg-0pky">0.34</td>
-    <td class="tg-0pky">0.21</td>
-    <td class="tg-0pky">0.39</td>
+    <td class="tg-0pky">Term Clustering </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">WADC</td>
-    <td class="tg-4yk9">0.52</td>
-    <td class="tg-4yk9">0.33</td>
-    <td class="tg-4yk9">0.54</td>
-    <td class="tg-4yk9">0.39</td>
-    <td class="tg-4yk9">0.22</td>
-    <td class="tg-4yk9">0.46</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">AND</td>
-    <td class="tg-0pky">0.52</td>
-    <td class="tg-0pky">0.24</td>
-    <td class="tg-0pky">0.59</td>
-    <td class="tg-0pky">0.38</td>
-    <td class="tg-0pky">0.16</td>
-    <td class="tg-0pky">0.46</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WAND</td>
-    <td class="tg-4yk9">0.55</td>
-    <td class="tg-4yk9">0.37</td>
-    <td class="tg-4yk9">0.55</td>
-    <td class="tg-4yk9">0.37</td>
-    <td class="tg-w262">0.25</td>
-    <td class="tg-4yk9">0.42</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">D</td>
-    <td class="tg-0pky">0.50</td>
-    <td class="tg-0pky">0.29</td>
-    <td class="tg-0pky">0.55</td>
-    <td class="tg-0pky">0.35</td>
-    <td class="tg-0pky">0.19</td>
-    <td class="tg-0pky">0.41</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">WD</td>
-    <td class="tg-0pky">0.57</td>
-    <td class="tg-0pky">0.41</td>
-    <td class="tg-0pky">0.55</td>
-    <td class="tg-0pky">0.42</td>
-    <td class="tg-0pky">0.24</td>
-    <td class="tg-0pky">0.42</td>
-  </tr>
+   
   <tr>
     <td class="tg-0pky" rowspan="9"><br><br><br><br><br><br><br><br><br>Clarity<br></td>
   </tr>
