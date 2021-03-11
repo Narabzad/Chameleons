@@ -92,7 +92,8 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky" rowspan="8"><br><br> External Sources<br></td>
   </tr>
  <tr>
-    <td class="tg-0pky"> Neural Embeddings[(query)](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Neural%20Embeddings/outstalet_50_word2vec.topn3) </td>
+    <td class="tg-0pky"> Neural Embeddings   [query](https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Neural%20Embeddings/outstalet_50_word2vec.topn3)
+ </td>
     <td class="tg-4yk9"> 0.0218 </td>
     <td class="tg-4yk9"> 0.0248 </td>
     <td class="tg-4yk9"> 0.0285 </td>
