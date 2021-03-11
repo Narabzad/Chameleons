@@ -10,6 +10,8 @@ to the stable and consistent performance of neural rankers.
 Further, we show the performance of SOTA rankers  on MSMARCO small dev set which contains 6980 queries in Table 1.
 
 
+
+
 **Table 1. : MAP Performance of  the rankers on 50% hardest queries of the Chameleon datasets.**
 | Variations          | Dataset Name          | BM25   | DeepCT | DocT5Query | RepBert | ANCE   | TCT-Colbert |
 |---------------------|-----------------------|--------|--------|------------|---------|--------|-------------|
