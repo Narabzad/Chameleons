@@ -48,7 +48,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky">TCT-ColBert</td>
   </tr>
     <tr>
-    <td class="tg-0pky" rowspan="4"><br><br><br><br>Psuedo-Relevance Feedbac<br></td>
+    <td class="tg-0pky" rowspan="5"><br><br><br><br>Psuedo-Relevance Feedbac<br></td>
   </tr>
 
   <tr>
