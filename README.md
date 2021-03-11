@@ -137,7 +137,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky"> 0.0633</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ConceptNet [(query)]https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3()</td>
+    <td class="tg-0pky">ConceptNet [(query)]https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3)</td>
     <td class="tg-4yk9"> 0..0269</td>
     <td class="tg-4yk9"> 0.0278</td>
     <td class="tg-4yk9"> 0.0342</td>
