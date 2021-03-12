@@ -170,7 +170,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
 
   <tr>
-    <td class="tg-0pky"> ANMT (Seq2Seq) <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_seq2seq.tsv"" target="_top">(query))</a>  </td>
+    <td class="tg-0pky"> ANMT (Seq2Seq) <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_seq2seq.tsv"" target="_top">(query)</a>  </td>
     <td class="tg-4yk9"> 0.0002 </td>
     <td class="tg-4yk9"> 0.0007</td>
     <td class="tg-4yk9"> 0.0010</td>
@@ -180,7 +180,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
   
-   <td class="tg-0pky">ACG (Seq2Seq + Attention)   <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_acg.tsv"" target="_top">(query))</a> </td>
+   <td class="tg-0pky">ACG (Seq2Seq + Attention)   <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_acg.tsv"" target="_top">(query)</a> </td>
     <td class="tg-0pky"> 0.0240</td>
     <td class="tg-0pky"> 0.0307</td>
     <td class="tg-0pky"> 0.0359</td>
@@ -190,7 +190,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
   
-   <td class="tg-0pky"> HRED-qs  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_hredqs.tsv"" target="_top">(query))</a></td>
+   <td class="tg-0pky"> HRED-qs  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_hredqs.tsv"" target="_top">(query)</a></td>
     <td class="tg-4yk9"> 0.006</td>
     <td class="tg-4yk9"> 0.002</td>
     <td class="tg-4yk9"> 0.003</td>
