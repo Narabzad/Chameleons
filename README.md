@@ -155,7 +155,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top">(query))</a>
+    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top">(query)</a>
       </td>
     <td class="tg-0pky"> 0.0271</td>
     <td class="tg-0pky"> 0.0569</td>
