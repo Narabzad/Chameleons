@@ -202,3 +202,14 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 </table>
 
 It should be noted that the psuedo-relevance feedback-based query expansion methods are different for each run since they are based on initial first round of retrieval. However, for other methods, the expansion queries are the same. 
+
+
+## Authors
+[Negar Arabzadeh](https://github.com/Narabzad) and [Ebrahim Bagheri](https://www.ee.ryerson.ca/~bagheri/)
+
+
+Laboratory for Systems, Software and Semantics ([LS3](http://ls3.rnet.ryerson.ca/)), Ryerson University, ON, Canada.</sup>
+<p align="right">
+    <img src="./ls3.PNG", width="200", alt="Ls3 logo">
+</p>
+
