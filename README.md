@@ -205,7 +205,7 @@ It should be noted that the psuedo-relevance feedback-based query expansion meth
 
 
 ## Authors
-[Negar Arabzadeh](https://github.com/Narabzad) and [Ebrahim Bagheri](https://www.ee.ryerson.ca/~bagheri/)
+[Negar Arabzadeh](https://github.com/Narabzad), [Bhaskar Mitra](https://github.com/bmitra-msft) and [Ebrahim Bagheri](https://www.ee.ryerson.ca/~bagheri/)
 
 
 Laboratory for Systems, Software and Semantics ([LS3](http://ls3.rnet.ryerson.ca/)), Ryerson University, ON, Canada.</sup>
