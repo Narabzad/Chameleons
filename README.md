@@ -56,39 +56,39 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 
   <tr>
     <td class="tg-0pky">Relevance feedback</td>
-    <td class="tg-4yk9"> 0.0477 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.bm25.topn10"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0574 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.deepct.topn10"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0566 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.DocT5.topn10"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0513 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.repbert.topn10"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0277 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.ance.topn10"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0693 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/outstalet_50_relevancefeedback.colbert.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0477 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.bm25.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0574 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.deepct.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0566 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.DocT5.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0513 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.repbert.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0277 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.ance.topn10"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0693 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Relevance%20Feedback/Veiled_50_relevancefeedback.colbert.topn10"" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">RM3</td>
-    <td class="tg-0pky"> 0.0407 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.bm25"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0375 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.deepct"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0603 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.doct5"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0459 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.repbert"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0374 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.ance"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0610 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/outstalet_50_rm3.colbert"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0407 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.bm25"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0375 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.deepct"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0603 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.doct5"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0459 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.repbert"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0374 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.ance"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0610 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/RM3/Veiled_50_rm3.colbert"" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Document clustering</td>
-    <td class="tg-4yk9"> 0.0392 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.bm25.topn10.3"" target="_top"> (query) </a> </td>
-    <td class="tg-4yk9"> 0.0393 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.deepct.topn10.3"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0593 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.DocT5.topn10.3"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0550 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.repbert.topn10.3"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0609 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.ance.topn10.3"" target="_top"> (query) </a></td>
-    <td class="tg-4yk9"> 0.0765 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/outstalet_50_docluster.colbert.topn10.3"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0392 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.bm25.topn10.3"" target="_top"> (query) </a> </td>
+    <td class="tg-4yk9"> 0.0393 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.deepct.topn10.3"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0593 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.DocT5.topn10.3"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0550 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.repbert.topn10.3"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0609 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.ance.topn10.3"" target="_top"> (query) </a></td>
+    <td class="tg-4yk9"> 0.0765 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Document%20Clustering/Veiled_50_docluster.colbert.topn10.3"" target="_top"> (query) </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Term Clustering </td>
-    <td class="tg-0pky"> 0.0412 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.bm25.topn5.3"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0424 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.deepct.topn5.3"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0567 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.DocT5.topn5.3"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0557 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.repbert.topn5.3"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0693 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.ance.topn5.3"" target="_top"> (query) </a></td>
-    <td class="tg-0pky"> 0.0724 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/outstalet_50_termluster.colbert.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0412 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.bm25.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0424 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.deepct.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0567 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.DocT5.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0557 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.repbert.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0693 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.ance.topn5.3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> 0.0724 <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Term%20Clustering/Veiled_50_termluster.colbert.topn5.3"" target="_top"> (query) </a></td>
   </tr>
   <tr>
  <tr>
@@ -96,7 +96,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
  <tr>
 
-   <td class="tg-0pky"> Neural Embeddings <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Neural%20Embeddings/outstalet_50_word2vec.topn3"" target="_top"> (query) </a>  </td>
+   <td class="tg-0pky"> Neural Embeddings <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Neural%20Embeddings/Veiled_50_word2vec.topn3"" target="_top"> (query) </a>  </td>
     <td class="tg-4yk9"> 0.0218 </td>
     <td class="tg-4yk9"> 0.0248 </td>
     <td class="tg-4yk9"> 0.0285 </td>
@@ -105,7 +105,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0462 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> WikiPedia <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Wikipedia/outstalet_50_wiki.topn3"" target="_top"> (query) </a>
+    <td class="tg-0pky"> WikiPedia <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Wikipedia/Veiled_50_wiki.topn3"" target="_top"> (query) </a>
  </td>
     <td class="tg-4yk9"> 0.0277 </td>
     <td class="tg-4yk9"> 0.0313 </td>
@@ -115,7 +115,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0396 </td>
   </tr>
    <tr>
-    <td class="tg-0pky"> Thesaurus<a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/outstalet_50_thesaurus.topn3"" target="_top"> (query) </a></td>
+    <td class="tg-0pky"> Thesaurus<a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Thesaurus/Veiled_50_thesaurus.topn3"" target="_top"> (query) </a></td>
     <td class="tg-4yk9"> 0.0277</td>
     <td class="tg-4yk9"> 0.0313</td>
     <td class="tg-4yk9"> 0.0341 </td>
@@ -125,7 +125,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
       
-   <td class="tg-0pky"> Entity Linking <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/outstalet_50_tagmee.topn3"" target="_top">(query)</a>
+   <td class="tg-0pky"> Entity Linking <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Entity%20Linking/Veiled_50_tagmee.topn3"" target="_top">(query)</a>
     </td>
     <td class="tg-4yk9"> 0.0399 </td>
     <td class="tg-4yk9"> 0.0450 </td>
@@ -135,7 +135,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0649</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sense Disambigution <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Sense%20Disambigution/outstalet_50_sensedisambiguation"" target="_top">(query)</a>
+    <td class="tg-0pky">Sense Disambigution <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/Sense%20Disambigution/Veiled_50_sensedisambiguation"" target="_top">(query)</a>
   </td>
     <td class="tg-0pky"> 0.0359</td>
     <td class="tg-0pky"> 0.0360</td>
@@ -145,7 +145,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-0pky"> 0.0633</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ConceptNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/outstalet_50_conceptnet.topn3"" target="_top">(query)</a>
+    <td class="tg-0pky">ConceptNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/ConceptNet/Veiled_50_conceptnet.topn3"" target="_top">(query)</a>
      </td>
     <td class="tg-4yk9"> 0..0269</td>
     <td class="tg-4yk9"> 0.0278</td>
@@ -155,7 +155,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
     <td class="tg-4yk9"> 0.0442</td>
   </tr>
   <tr>
-    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/outstalet_50_wordnet.topn3"" target="_top">(query)</a>
+    <td class="tg-0pky"> WordNet  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/WordNet/Veiled_50_wordnet.topn3"" target="_top">(query)</a>
       </td>
     <td class="tg-0pky"> 0.0271</td>
     <td class="tg-0pky"> 0.0569</td>
@@ -170,7 +170,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
 
   <tr>
-    <td class="tg-0pky"> ANMT (Seq2Seq) <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_seq2seq.tsv"" target="_top">(query)</a>  </td>
+    <td class="tg-0pky"> ANMT (Seq2Seq) <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/Veiled_50_predicted_queries_deep_seq2seq.tsv"" target="_top">(query)</a>  </td>
     <td class="tg-4yk9"> 0.0002 </td>
     <td class="tg-4yk9"> 0.0007</td>
     <td class="tg-4yk9"> 0.0010</td>
@@ -180,7 +180,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
   
-   <td class="tg-0pky">ACG (Seq2Seq + Attention)   <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_acg.tsv"" target="_top">(query)</a> </td>
+   <td class="tg-0pky">ACG (Seq2Seq + Attention)   <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/Veiled_50_predicted_queries_deep_acg.tsv"" target="_top">(query)</a> </td>
     <td class="tg-0pky"> 0.0240</td>
     <td class="tg-0pky"> 0.0307</td>
     <td class="tg-0pky"> 0.0359</td>
@@ -190,7 +190,7 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
   </tr>
   <tr>
   
-   <td class="tg-0pky"> HRED-qs  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/outstalet_50_predicted_queries_deep_hredqs.tsv"" target="_top">(query)</a></td>
+   <td class="tg-0pky"> HRED-qs  <a href="https://github.com/Narabzad/Chameleons/blob/master/expanded%20Queries/supervised%20methods/Veiled_50_predicted_queries_deep_hredqs.tsv"" target="_top">(query)</a></td>
     <td class="tg-4yk9"> 0.006</td>
     <td class="tg-4yk9"> 0.002</td>
     <td class="tg-4yk9"> 0.003</td>
