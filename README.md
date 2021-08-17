@@ -205,6 +205,15 @@ The expanded queries can be found [here](https://github.com/Narabzad/Chameleons/
 
 It should be noted that the psuedo-relevance feedback-based query expansion methods are different for each run since they are based on initial first round of retrieval. However, for other methods, the expansion queries are the same. 
 
+**Please cite our work as:**
+````
+@inproceedings{arabzadehcikm2021-3,
+  author    = {Negar Arabzadeh and Bhaskar Mitra and Ebrahim Bagheri,},
+  title     = {MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate Queries},
+  booktitle = {The 30th ACM Conference on Information and Knowledge Management (CIKM 2021)},
+  year      = {2021}
+}
+````
 
 ## Authors
 [Negar Arabzadeh](https://github.com/Narabzad), [Bhaskar Mitra](https://github.com/bmitra-msft) and [Ebrahim Bagheri](https://www.ee.ryerson.ca/~bagheri/)
